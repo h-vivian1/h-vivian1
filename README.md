@@ -65,8 +65,8 @@ Projetos desenvolvidos com foco em **User Experience (UX)** e **Segurança de Da
 | Projeto | Categoria | Descrição Técnica |
 | :--- | :---: | :--- |
 | **Clinical Manager SaaS** | `HealthTech` | <img src="https://img.shields.io/badge/●_Em_Produção-FF0080?style=flat-square&labelColor=2d2d2d" alt="Status: Em Produção"> <br> Plataforma de gestão para profissionais de saúde. Inclui módulo de **prescrição digital inteligente**, prontuário eletrônico seguro e agendamento. Foco em conformidade de dados e alta disponibilidade. |
-| **Routine Orchestrator** <br> <img src="https://img.shields.io/badge/●_Em_Produção-FF0080?style=flat-square&labelColor=2d2d2d" alt="Status: Em Produção"> | `Productivity` | Ecossistema de organização pessoal que utiliza algoritmos de priorização para gestão de tarefas e hábitos. Arquitetura reativa com persistência de dados otimizada para uso diário intenso. |
-| **[PrintFullPage](https://github.com/h-vivian1/PrintFullPage)** <br> <img src="https://img.shields.io/badge/Open_Source-Success-green?style=flat-square&labelColor=2d2d2d" alt="Status: Open Source"> | `Automation` | Engine de renderização e captura de DOM para páginas web complexas. Resolve problemas de carregamento dinâmico (Lazy Loading) para gerar evidências visuais perfeitas. |
+| **Routine Orchestrator** | `Productivity` | <img src="https://img.shields.io/badge/●_Em_Produção-FF0080?style=flat-square&labelColor=2d2d2d" alt="Status: Em Produção"> <br> Ecossistema de organização pessoal que utiliza algoritmos de priorização para gestão de tarefas e hábitos. Arquitetura reativa com persistência de dados otimizada para uso diário intenso. |
+| **[PrintFullPage](https://github.com/h-vivian1/PrintFullPage)** | `Automation` | <img src="https://img.shields.io/badge/Open_Source-Success-green?style=flat-square&labelColor=2d2d2d" alt="Status: Open Source"> <br> Engine de renderização e captura de DOM para páginas web complexas. Resolve problemas de carregamento dinâmico (Lazy Loading) para gerar evidências visuais perfeitas. |
 
 ---
 
