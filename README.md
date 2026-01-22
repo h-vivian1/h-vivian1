@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">Olá, sou Henrique Vivian! 👋</h1>
-<h3 align="center">🚀 Arquiteto de Software em Formação | Especialista em Automação & IA</h3>
+<h3 align="center">🚀 Arquiteto de Software | Engenheiro de Dados & Automação</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI-First+Developer;Python+%26+Data+Engineering;Automation+Expert;Building+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI-First+Architecture;SaaS+Development;Automation+Expert;Data-Driven+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,41 +26,32 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Analista de Sistemas** graduado e Pós-graduando em **Arquitetura e Desenvolvimento de Sistemas**, com ênfase em Padrões de Projeto e Clean Code.
+Atuo na interseção entre **Engenharia de Software** e **Ciência de Dados**. Minha especialidade é arquitetar soluções escaláveis, focando em Clean Architecture e robustez.
 
-Minha abordagem é **AI-First**: utilizo Inteligência Artificial Generativa (LLMs) não apenas como ferramenta, mas como parte integrante do fluxo de desenvolvimento para acelerar diagnósticos, otimizar algoritmos e documentar sistemas complexos.
+Minha abordagem é **AI-First**: integro LLMs e automação inteligente no core do desenvolvimento para reduzir débito técnico, acelerar entregas e criar funcionalidades preditivas. Não apenas escrevo código; desenho sistemas que resolvem dores reais de negócio.
 
-Atualmente, foco no desenvolvimento de soluções que unem **Engenharia de Dados**, **Automação** e **Inteligência Artificial**.
-
-* 🔭 **Trabalhando atualmente em:** *BetAI V3* (SaaS de Análise Preditiva Esportiva com Python e RAG).
-* 🌱 **Estudando:** Arquitetura de Microsserviços, Engenharia de Prompt Avançada e Design Patterns.
-* 💡 **Interesses:** Automação de Processos (RPA), Web Scraping e Integrações via API.
+* 🔭 **Foco atual:** Desenvolvimento de produtos SaaS com arquitetura modular e alta disponibilidade.
+* 🌱 **Stack Principal:** Python (Data/Backend), TypeScript/Next.js (Fullstack) e Cloud Solutions.
+* 💡 **Filosofia:** "Software bom é software que resolve o problema e é fácil de manter."
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-Minha caixa de ferramentas foca em eficiência, dados e robustez.
+Arquitetura moderna focada em eficiência e manutenibilidade.
 
 <div align="center">
 
-  <!-- Languages -->
   <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  
-  &nbsp;&nbsp;&nbsp; <!-- Spacer -->
-  
-  <!-- Data & AI -->
-  <img align="center" alt="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   
+  &nbsp;&nbsp;&nbsp; <img align="center" alt="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="TensorFlow" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  
-  &nbsp;&nbsp;&nbsp; <!-- Spacer -->
-  
-  <!-- Tools -->
-  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+   
+  &nbsp;&nbsp;&nbsp; <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 </div>
@@ -69,13 +60,15 @@ Minha caixa de ferramentas foca em eficiência, dados e robustez.
 
 ---
 
-### ⚡ Projetos em Destaque
+### ⚡ Portfólio Selecionado
 
-| Projeto | Stack | Descrição |
+Projetos desenvolvidos com foco em **User Experience (UX)** e **Segurança de Dados**.
+
+| Projeto | Categoria | Descrição Técnica |
 | :--- | :---: | :--- |
-| **BetAI V3** | `Python` `Streamlit` `Pandas` | Aplicação de análise preditiva esportiva que cruza dados históricos e odds em tempo real. |
-| **Web Scraper Pro** | `Python` `Selenium` | Ferramenta de automação para extração de dados estruturados e impressão de páginas completas. |
-| **O Prompt de Tudo** | `Obsidian` `Quartz` | Blog focado em Engenharia de Prompt e curadoria de conteúdo para consumo por IAs. |
+| **Clinical Manager SaaS** | `HealthTech` | Plataforma de gestão para profissionais de saúde. Inclui módulo de **prescrição digital inteligente**, prontuário eletrônico seguro e agendamento. Foco em conformidade de dados e alta disponibilidade para consultórios. |
+| **Routine Orchestrator** | `Productivity` | *Em Produção*. Ecossistema de organização pessoal que utiliza algoritmos de priorização para gestão de tarefas e hábitos. Arquitetura reativa com persistência de dados otimizada para uso diário intenso. |
+| **[PrintFullPage](https://github.com/h-vivian1/PrintFullPage)** | `Automation` | *Open Source*. Engine de renderização e captura de DOM para páginas web complexas. Resolve problemas de carregamento dinâmico (Lazy Loading) para gerar evidências visuais perfeitas. |
 
 ---
 
