@@ -67,7 +67,7 @@ Projetos desenvolvidos com foco em **User Experience (UX)**, **Dados** e **Autom
 ### 📊 Estatísticas & Contribuições
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-vivian1&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
 </div>
 
@@ -81,7 +81,7 @@ Projetos desenvolvidos com foco em **User Experience (UX)**, **Dados** e **Autom
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/h-vivian1/h-vivian1/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/h-vivian1/h-vivian1/output/github-contribution-grid-snake-ocean.svg" alt="Snake Animation" />
 </div>
 
 <div align="center">
