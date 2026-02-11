@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Olá, sou Henrique Vivian! 👋</h1>
-<h3 align="center">🚀 Arquiteto de Software em Formação | Especialista em Automação & IA</h3>
+<h3 align="center">🚀 Arquiteto de Software | Engenheiro de Dados & Automação</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -64,17 +64,24 @@ Projetos desenvolvidos com foco em **User Experience (UX)**, **Dados** e **Autom
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas & Contribuições
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-vivian1&layout=compact&theme=tokyonight" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-vivian1&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-vivian1&theme=tokyonight&hide_border=true&date_format=d%20M%20Y&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/h-vivian1/h-vivian1/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <div align="center">
