@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI-First+Developer;Python+%26+Data+Engineering;Automation+Expert;Building+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI-First+Architecture;SaaS+Development;Automation+Expert;Data-Driven+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,42 +24,28 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim: Codando com Propósito
 
-Sou **Analista de Sistemas** graduado e Pós-graduando em **Arquitetura e Desenvolvimento de Sistemas**, com ênfase em Padrões de Projeto e Clean Code.
+Sou um **Desenvolvedor Full Stack** e **Pós-Graduado em Tecnologia**, movido pela otimização. Combino base técnica sólida com uma filosofia prática: **se é repetitivo, podemos automatizar e melhorar**.
 
-Minha abordagem é **AI-First**: utilizo Inteligência Artificial Generativa (LLMs) não apenas como ferramenta, mas como parte integrante do fluxo de desenvolvimento para acelerar diagnósticos, otimizar algoritmos e documentar sistemas complexos.
+Meu foco é resolver dores reais do dia a dia e destravar fluxos de trabalho complexos. Hoje, utilizo **Agentes de IA** e orquestração de ferramentas (como n8n) para criar soluções que trabalham por você. Não entrego apenas linhas de código, entrego sistemas que devolvem tempo e eficiência.
 
-Atualmente, foco no desenvolvimento de soluções que unem **Engenharia de Dados**, **Automação** e **Inteligência Artificial**.
-
-* 🔭 **Trabalhando atualmente em:** (SaaS de Análise Preditiva Esportiva com Python e RAG).
-* 🌱 **Estudando:** Arquitetura de Microsserviços, Engenharia de Prompt Avançada e Design Patterns.
-* 💡 **Interesses:** Automação de Processos (RPA), Web Scraping e Integrações via API.
+* 🎓 **Formação:** Pós-graduação concluída, com especialização em arquitetura de soluções robustas.
+* 🔭 **Foco atual:** Desenvolvimento de produtos SaaS com arquitetura modular, **Clean Code** e alta disponibilidade.
+* 🔥 **Destaque:** Implementação de fluxos com Agentes de IA que reduzem tempo de documentação em até 90%.
+* 💡 **Filosofia:** "Software bom é software que resolve o problema, escala bem e é fácil de manter."
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-Minha caixa de ferramentas foca em eficiência, dados e robustez.
+Arquitetura moderna focada em eficiência, escalabilidade e manutenibilidade.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,tailwind,postgres,docker,git,vscode" />
+  <br>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
 </div>
 
 <br>
@@ -68,11 +54,13 @@ Minha caixa de ferramentas foca em eficiência, dados e robustez.
 
 ### ⚡ Projetos em Destaque
 
-| Projeto | Stack | Descrição |
+Projetos desenvolvidos com foco em **User Experience (UX)**, **Dados** e **Automação Inteligente**.
+
+| Projeto | Categoria | Descrição Técnica |
 | :--- | :---: | :--- |
-| **BetAI V3** | `Python` `Streamlit` `Pandas` | Aplicação de análise preditiva esportiva que cruza dados históricos e odds em tempo real. |
-| **Web Scraper Pro** | `Python` `Selenium` | Ferramenta de automação para extração de dados estruturados e impressão de páginas completas. |
-| **O Prompt de Tudo** | `Obsidian` `Quartz` | Blog focado em Engenharia de Prompt e curadoria de conteúdo para consumo por IAs. |
+| **Revalida** | `Sports Analytics` | <img src="https://img.shields.io/badge/●_Em_Produção-FF0080?style=flat-square&labelColor=2d2d2d" alt="Status: Em Produção"> <br> App de análise preditiva baseado em **estatísticas pré-live** no mercado esportivo. Utiliza modelagem de dados para identificar padrões de valor e probabilidades em tempo real. |
+| **Prompt de Tudo** | `AI Automation` | <img src="https://img.shields.io/badge/●_Em_Produção-FF0080?style=flat-square&labelColor=2d2d2d" alt="Status: Em Produção"> <br> Hub de automação inteligente orquestrado via **n8n**. Integra múltiplos modelos de IA para gerar, refinar e estruturar prompts complexos, otimizando fluxos de trabalho criativos e técnicos. |
+| **[PrintFullPages](https://github.com/h-vivian1/PrintFullPage)** | `Automation` | <img src="https://img.shields.io/badge/Open_Source-Success-green?style=flat-square&labelColor=2d2d2d" alt="Status: Open Source"> <br> Engine de renderização capaz de salvar o **print completo de uma ou várias URLs** simultaneamente. Resolve problemas de **Lazy Loading** e carregamento dinâmico para gerar evidências visuais perfeitas. |
 
 ---
 
