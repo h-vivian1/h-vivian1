@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="180" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-</div>
-
 <h1 align="center">Olá, sou Henry Vivian! 👋</h1>
 <h3 align="center">⚡ IA Preditiva & Automação | Agentes de IA</h3>
 
