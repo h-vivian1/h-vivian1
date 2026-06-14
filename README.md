@@ -2,20 +2,17 @@
   <img height="180" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
-<h1 align="center">Olá, sou Henrique Vivian! 👋</h1>
-<h3 align="center">🚀 Arquiteto de Software | Engenheiro de Dados & Automação</h3>
+<h1 align="center">Olá, sou Henry Vivian! 👋</h1>
+<h3 align="center">⚡ IA Preditiva & Automação | Agentes de IA</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI-First+Architecture;SaaS+Development;Automation+Expert;Data-Driven+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IA+Preditiva+%26+Sports+Analytics;Automação+Multi-Agente;Segundo+Cérebro+%2F+PKM;Data-Driven+Decisions" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/henrique-vivian-analista-ti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:asvhenry@gmail.com">
+  <a href="mailto:hasvdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -24,28 +21,31 @@
 
 ---
 
-### 👨‍💻 Sobre Mim: Codando com Propósito
+### 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** e **Pós-Graduado em Tecnologia**, movido pela otimização. Combino base técnica sólida com uma filosofia prática: **se é repetitivo, podemos automatizar e melhorar**.
+Criar soluções práticas pro dia a dia e automatizar tudo que for chato é a minha missão! 🎯
 
-Meu foco é resolver dores reais do dia a dia e destravar fluxos de trabalho complexos. Hoje, utilizo **Agentes de IA** e orquestração de ferramentas (como n8n) para criar soluções que trabalham por você. Não entrego apenas linhas de código, entrego sistemas que devolvem tempo e eficiência.
+Sou movido a **otimização**: se é repetitivo, eu transformo em sistema. Meu trabalho hoje gira em torno de **IA Preditiva para apostas esportivas**, **Agentes de IA autônomos**, e a construção do meu **Segundo Cérebro** — uma base de conhecimento interligada que potencializa cada decisão.
 
-* 🎓 **Formação:** Pós-graduação concluída, com especialização em arquitetura de soluções robustas.
-* 🔭 **Foco atual:** Desenvolvimento de produtos SaaS com arquitetura modular, **Clean Code** e alta disponibilidade.
-* 🔥 **Destaque:** Implementação de fluxos com Agentes de IA que reduzem tempo de documentação em até 90%.
-* 💡 **Filosofia:** "Software bom é software que resolve o problema, escala bem e é fácil de manter."
+* 🔭 **Foco atual:** [**MethodAudit**](https://github.com/h-vivian1/Projeto_Flashscore) — motor preditivo LightGBM + RAG/KNN para o mercado esportivo (Flashscore/RapidAPI)
+* 🧠 **Segundo Cérebro:** Obsidian + Método Karpathy + NotebookLM — conhecimento atômico com links bidirecionais e ingestão automatizada via agentes
+* 🤖 **Orquestração:** Hermes Agent, n8n, DeepSeek, Claude — automação multi-agente
+* 📍 **Localização:** Fortaleza, Ceará, Brasil 🇧🇷
+* 💡 **Filosofia:** *"Software bom é o que resolve o problema, escala bem, e é fácil de manter."*
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
-
-Arquitetura moderna focada em eficiência, escalabilidade e manutenibilidade.
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,tailwind,postgres,docker,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,ts,html,css,git,github,vscode" />
   <br>
+  <img src="https://img.shields.io/badge/LightGBM-3D7B3F?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/DeepSeek-4F46E5?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-000?style=for-the-badge&logo=robot&logoColor=white" alt="Hermes Agent" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
 </div>
 
 <br>
@@ -54,13 +54,12 @@ Arquitetura moderna focada em eficiência, escalabilidade e manutenibilidade.
 
 ### ⚡ Projetos em Destaque
 
-Projetos desenvolvidos com foco em **User Experience (UX)**, **Dados** e **Automação Inteligente**.
-
-| Projeto | Categoria | Descrição Técnica |
+| Projeto | Categoria | Descrição |
 | :--- | :---: | :--- |
-| **Revalida** | `Sports Analytics` | <img src="https://img.shields.io/badge/●_Em_Produção-FF0080?style=flat-square&labelColor=2d2d2d" alt="Status: Em Produção"> <br> App de análise preditiva baseado em **estatísticas pré-live** no mercado esportivo. Utiliza modelagem de dados para identificar padrões de valor e probabilidades em tempo real. |
-| **Prompt de Tudo** | `AI Automation` | <img src="https://img.shields.io/badge/●_Em_Produção-FF0080?style=flat-square&labelColor=2d2d2d" alt="Status: Em Produção"> <br> Hub de automação inteligente orquestrado via **n8n**. Integra múltiplos modelos de IA para gerar, refinar e estruturar prompts complexos, otimizando fluxos de trabalho criativos e técnicos. |
-| **[PrintFullPages](https://github.com/h-vivian1/PrintFullPage)** | `Automation` | <img src="https://img.shields.io/badge/Open_Source-Success-green?style=flat-square&labelColor=2d2d2d" alt="Status: Open Source"> <br> Engine de renderização capaz de salvar o **print completo de uma ou várias URLs** simultaneamente. Resolve problemas de **Lazy Loading** e carregamento dinâmico para gerar evidências visuais perfeitas. |
+| **[MethodAudit](https://github.com/h-vivian1/Projeto_Flashscore)** 🔒 | `Sports Analytics / ML` | Motor preditivo **LightGBM + RAG/KNN** para o mercado esportivo. Processa dados do Flashscore/RapidAPI em tempo real, gerando insights de valor. Banco SQLite de **395MB+** com pipeline automatizado. |
+| **Segundo Cérebro** | `PKM / IA` | Obsidian LLM Wiki baseado no **Método Karpathy + NotebookLM**. Conhecimento atômico com YAML frontmatter, links bidirecionais e MOCs. Ingestão automatizada via agentes de IA. |
+| **Promptudo** 🔒 | `AI Automation` | Hub de automação orquestrado via **n8n**. Integra múltiplos modelos de IA para gerar, refinar e estruturar prompts complexos. |
+| **[PrintFullPages](https://github.com/h-vivian1/PrintFullPages)** | `Automation` | Engine de renderização que captura **prints completos de URLs** simultaneamente. Resolve Lazy Loading e carregamento dinâmico. |
 
 ---
 
