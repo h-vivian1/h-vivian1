@@ -71,8 +71,8 @@ Sou movido a **otimização**: se é repetitivo, eu transformo em sistema. Meu t
 ### 📊 Estatísticas & Contribuições
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-vivian1&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-vivian1&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
 </div>
 
 <br>
