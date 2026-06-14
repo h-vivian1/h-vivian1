@@ -27,10 +27,9 @@ Criar soluções práticas pro dia a dia e automatizar tudo que for chato é a m
 
 Sou movido a **otimização**: se é repetitivo, eu transformo em sistema. Meu trabalho hoje gira em torno de **IA Preditiva para apostas esportivas**, **Agentes de IA autônomos**, e a construção do meu **Segundo Cérebro** — uma base de conhecimento interligada que potencializa cada decisão.
 
-|* 🔭 **Foco atual:** [**Projeto_Flashscore**](https://github.com/h-vivian1/Projeto_Flashscore) — motor preditivo LightGBM + RAG/KNN para o mercado esportivo (Flashscore/RapidAPI)
+* 🔭 **Foco atual:** [**Projeto_Flashscore**](https://github.com/h-vivian1/Projeto_Flashscore) — motor preditivo LightGBM + RAG/KNN para o mercado esportivo (Flashscore/RapidAPI)
 * 🧠 **Segundo Cérebro:** Obsidian + Método Karpathy + NotebookLM — conhecimento atômico com links bidirecionais e ingestão automatizada via agentes
 * 🤖 **Orquestração:** Hermes Agent, n8n, DeepSeek, Claude — automação multi-agente
-* 📍 **Localização:** Fortaleza, Ceará, Brasil 🇧🇷
 * 💡 **Filosofia:** *"Software bom é o que resolve o problema, escala bem, e é fácil de manter."*
 
 ---
@@ -38,7 +37,12 @@ Sou movido a **otimização**: se é repetitivo, eu transformo em sistema. Meu t
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,py,html,css,js,docker,git,github,vscode" />
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <br>
   <img src="https://img.shields.io/badge/LightGBM-3D7B3F?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -46,6 +50,7 @@ Sou movido a **otimização**: se é repetitivo, eu transformo em sistema. Meu t
   <img src="https://img.shields.io/badge/DeepSeek-4F46E5?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
   <img src="https://img.shields.io/badge/Hermes_Agent-000?style=for-the-badge&logo=robot&logoColor=white" alt="Hermes Agent" />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 <br>
@@ -66,14 +71,20 @@ Sou movido a **otimização**: se é repetitivo, eu transformo em sistema. Meu t
 ### 📊 Estatísticas & Contribuições
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-vivian1&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-vivian1&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-vivian1&theme=tokyonight&hide_border=true&date_format=d%20M%20Y&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h-vivian1&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%" alt="activity graph" />
 </div>
 
 <br>
