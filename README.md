@@ -78,10 +78,9 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
 
 | Projeto | Stack | Descrição |
 |:--------|:------|:----------|
-| **promptudo** 🔒 | `TypeScript · n8n · Docker` | Hub de automação multi-modelo via n8n. Integra DeepSeek, Claude e outros LLMs |
 | [PrintFullPages](https://github.com/h-vivian1/PrintFullPages) | `TypeScript` | Engine de renderização que captura prints completos de URLs |
-| [GenAI Triage Gateway](https://github.com/h-vivian1/GenAI_Triage_-_Action_Gateway) | `Python` | Gateway de triagem para ações baseadas em IA Generativa |
-| float_premiere | `Python` | Placar da Premiere em janela flutuante no Windows |
+| **promptudo** 🔒 | `TypeScript · n8n · Docker` | Hub de automação multi-modelo via n8n. Integra DeepSeek, Claude e outros LLMs |
+| float_premiere 🔒 | `Python` | Placar da Premiere em janela flutuante no Windows |
 | MegaFocus | `TypeScript` | App de foco e produtividade |
 | Organizei | `Python` | Automação de organização de arquivos |
 | Kelly Criterion Calculator | `HTML` | Calculadora de Kelly Criterion para apostas |
