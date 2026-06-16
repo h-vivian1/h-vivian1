@@ -23,7 +23,7 @@ Criar soluções práticas pro dia a dia e automatizar tudo que for chato é a m
 
 Sou movido a **otimização**: se é repetitivo, eu transformo em sistema. Meu trabalho hoje gira em torno de **IA Preditiva para apostas esportivas**, **Agentes de IA autônomos**, e a construção do meu **Segundo Cérebro** — uma base de conhecimento interligada que potencializa cada decisão.
 
-* 🔭 **Foco atual:** [**Projeto_Flashscore**](https://github.com/h-vivian1/Projeto_Flashscore) — motor preditivo LightGBM + RAG/KNN para o mercado esportivo (Flashscore/RapidAPI)
+* 🔭 **Foco atual:** [**Projeto_Flashscore**](https://github.com/h-vivian1/Projeto_Flashscore) — motor preditivo LightGBM + Poisson Bivariado (Dixon-Coles) + RAG/KNN
 * 🧠 **Segundo Cérebro:** Obsidian + Método Karpathy + NotebookLM — conhecimento atômico com links bidirecionais e ingestão automatizada via agentes
 * 🤖 **Orquestração:** Hermes Agent, n8n, DeepSeek, Claude — automação multi-agente
 * 💡 **Filosofia:** *"Software bom é o que resolve o problema, escala bem, e é fácil de manter."*
@@ -57,8 +57,8 @@ Sou movido a **otimização**: se é repetitivo, eu transformo em sistema. Meu t
 
 | Projeto | Categoria | Descrição |
 | :--- | :---: | :--- |
-| **[Projeto_Flashscore](https://github.com/h-vivian1/Projeto_Flashscore)** 🔒 | `Sports Analytics / ML` | Motor preditivo **LightGBM + RAG/KNN** para o mercado esportivo. Processa dados do Flashscore/RapidAPI em tempo real, gerando insights de valor. Banco SQLite de **395MB+** com pipeline automatizado. |
-| **Segundo Cérebro** | `PKM / IA` | Obsidian LLM Wiki baseado no **Método Karpathy + NotebookLM**. Conhecimento atômico com YAML frontmatter, links bidirecionais e MOCs. Ingestão automatizada via agentes de IA. |
+| **[Projeto_Flashscore](https://github.com/h-vivian1/Projeto_Flashscore)** 🔒 | `Sports Analytics / ML` | Motor preditivo **LightGBM** com **Poisson Bivariado (Dixon-Coles)**, cache inteligente e RAG/KNN. Processa dados do Flashscore/RapidAPI em tempo real — backtest cronológico, filtro de mercados validados e otimização contínua de ROI (+1.7% na última correção). Pipeline automatizado com banco SQLite. |
+| **[Segundo Cérebro](https://github.com/h-vivian1/NotebookLM_Dio_Metodo_Karpathy)** | `PKM / IA` | Obsidian LLM Wiki baseado no **Método Karpathy + NotebookLM**. Conhecimento atômico com YAML frontmatter, links bidirecionais e MOCs. Ingestão automatizada via agentes de IA com pipeline raw → wiki → MOC. |
 | **Promptudo** 🔒 | `AI Automation` | Hub de automação orquestrado via **n8n**. Integra múltiplos modelos de IA para gerar, refinar e estruturar prompts complexos. |
 | **[PrintFullPages](https://github.com/h-vivian1/PrintFullPages)** | `Automation` | Engine de renderização que captura **prints completos de URLs** simultaneamente. Resolve Lazy Loading e carregamento dinâmico. |
 
