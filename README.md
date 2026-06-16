@@ -116,7 +116,12 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
 ## 📊 Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vivian1&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-vivian1&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vivian1&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-vivian1&theme=tokyonight&hide_border=true&date_format=d%20M%20Y&background=0d1117" height="170" />
 </p>
 
