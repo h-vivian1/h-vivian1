@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="mailto:hasvdev@gmail.com"><img src="https://img.shields.io/badge/Contato-hasvdev%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
-  <img src="https://img.shields.io/github/followers/h-vivian1?style=flat-square&color=8B5CF6&labelColor=1a1b27" />
-  <img src="https://komarev.com/ghpvc/?username=h-vivian1&color=8B5CF6&style=flat-square&label=visualizações&labelColor=1a1b27" />
+    <img src="https://komarev.com/ghpvc/?username=h-vivian1&color=8B5CF6&style=flat-square&label=visualizações&labelColor=1a1b27" />
 </p>
 
 <br/>
@@ -116,17 +115,17 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
 ## 📊 Atividade
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vivian1&theme=tokyonight" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-vivian1&theme=tokyonight" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vivian1&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vivian1&theme=dracula" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-vivian1&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vivian1&theme=dracula&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-vivian1&theme=tokyonight&hide_border=true&date_format=d%20M%20Y&background=0d1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-vivian1&theme=dracula&hide_border=true&date_format=d%20M%20Y&background=0d1117" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h-vivian1&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&radius=8" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h-vivian1&theme=dracula&hide_border=true&bg_color=0d1117&area=true&radius=8" width="95%" />
 </p>
 
 <br/>
