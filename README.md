@@ -60,14 +60,15 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">promptudo</h3>
-      <p align="center"><code>TypeScript · n8n · Docker</code></p>
-      <p align="center"><b>Hub de Automação com IA</b></p>
+      <h3 align="center">Calm Fintech</h3>
+      <p align="center"><code>Next.js · TypeScript · SQLite</code></p>
+      <p align="center"><b>Gestão Financeira com IA</b></p>
       <p align="center">
-        Orquestração multi-modelo via <b>n8n</b>. Integra DeepSeek, Claude e outros LLMs para gerar, refinar e estruturar prompts complexos em fluxos automatizados.
+        Plataforma de gerenciamento financeiro com <b>motor preditivo via IA (Groq + Llama 3.1)</b>, projeção estocástica de patrimônio em 12 meses, glassmorphism design e livro-razão persistente com SQLite + Prisma.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/privado-1a1b27?style=flat-square&logo=lock" />
+        <a href="https://github.com/h-vivian1/Calm_Fintech"><img src="https://img.shields.io/badge/repositório-8B5CF6?style=flat-square&logo=github" /></a>
+        <img src="https://img.shields.io/badge/MIT-1a1b27?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -77,6 +78,7 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
 
 | Projeto | Stack | Descrição |
 |:--------|:------|:----------|
+| **promptudo** 🔒 | `TypeScript · n8n · Docker` | Hub de automação multi-modelo via n8n. Integra DeepSeek, Claude e outros LLMs |
 | [PrintFullPages](https://github.com/h-vivian1/PrintFullPages) | `TypeScript` | Engine de renderização que captura prints completos de URLs |
 | [GenAI Triage Gateway](https://github.com/h-vivian1/GenAI_Triage_-_Action_Gateway) | `Python` | Gateway de triagem para ações baseadas em IA Generativa |
 | float_premiere | `Python` | Placar da Premiere em janela flutuante no Windows |
