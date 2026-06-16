@@ -1,95 +1,133 @@
-<h1 align="center">Olá, sou Henry Vivian! 👋</h1>
-<h3 align="center">⚡ IA Preditiva & Automação | Agentes de IA</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=IA+Preditiva+%26+Automação;Agentes+de+IA+Autônomos;Sports+Analytics+%2F+ML;Segundo+Cérebro+%2F+PKM" alt="typing svg" />
+</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IA+Preditiva+%26+Sports+Analytics;Automação+Multi-Agente;Segundo+Cérebro+%2F+PKM;Data-Driven+Decisions" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Henry Vivian</h1>
+<h3 align="center">Engenharia de IA Preditiva · Automação Inteligente · Agentes Autônomos</h3>
 
-<div align="center">
-  <a href="mailto:hasvdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:hasvdev@gmail.com"><img src="https://img.shields.io/badge/Contato-hasvdev%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
+  <img src="https://img.shields.io/github/followers/h-vivian1?style=flat-square&color=8B5CF6&labelColor=1a1b27" />
+  <img src="https://komarev.com/ghpvc/?username=h-vivian1&color=8B5CF6&style=flat-square&label=visualizações&labelColor=1a1b27" />
+</p>
 
-<br>
+<br/>
 
 ---
 
-### 👨‍💻 Sobre Mim
+## 🧠 Sobre Mim
 
-Criar soluções práticas pro dia a dia e automatizar tudo que for chato é a minha missão! 🎯
+Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuação combina **IA Preditiva**, **Agentes de IA Autônomos** e **Automação Inteligente** para resolver problemas reais — do mercado esportivo à gestão do conhecimento.
 
-Sou movido a **otimização**: se é repetitivo, eu transformo em sistema. Meu trabalho hoje gira em torno de **IA Preditiva para apostas esportivas**, **Agentes de IA autônomos**, e a construção do meu **Segundo Cérebro** — uma base de conhecimento interligada que potencializa cada decisão.
+> *"Se é repetitivo, eu transformo em sistema. Se tem dados, eu extraio valor."*
 
-* 🔭 **Foco atual:** [**Projeto_Flashscore**](https://github.com/h-vivian1/Projeto_Flashscore) — motor preditivo LightGBM + Poisson Bivariado (Dixon-Coles) + RAG/KNN
-* 🧠 **Segundo Cérebro:** Obsidian + Método Karpathy + NotebookLM — conhecimento atômico com links bidirecionais e ingestão automatizada via agentes
-* 🤖 **Orquestração:** Hermes Agent, n8n, DeepSeek, Claude — automação multi-agente
-* 💡 **Filosofia:** *"Software bom é o que resolve o problema, escala bem, e é fácil de manter."*
+| Área | Atuação |
+|:---|---|
+| 🤖 **IA Preditiva** | Modelos LightGBM, Poisson Bivariado (Dixon-Coles) e RAG/KNN para o mercado esportivo |
+| ⚙️ **Automação** | Orquestração multi-agente com Hermes Agent, n8n e pipelines inteligentes |
+| 🧠 **PKM** | Segundo Cérebro com Obsidian + Método Karpathy — conhecimento atômico e interligado |
+| 🐍 **Dev** | Python & TypeScript — do SQLite à API, do protótipo ao pipeline |
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,html,css,js,docker,git,github,vscode" />
-  <br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <br>
-  <img src="https://img.shields.io/badge/LightGBM-3D7B3F?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/DeepSeek-4F46E5?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Hermes_Agent-000?style=for-the-badge&logo=robot&logoColor=white" alt="Hermes Agent" />
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
-
-<br>
+<br/>
 
 ---
 
-### ⚡ Projetos em Destaque
+## ⚡ Projetos
 
-| Projeto | Categoria | Descrição |
-| :--- | :---: | :--- |
-| **[Projeto_Flashscore](https://github.com/h-vivian1/Projeto_Flashscore)** 🔒 | `Sports Analytics / ML` | Motor preditivo **LightGBM** com **Poisson Bivariado (Dixon-Coles)**, cache inteligente e RAG/KNN. Processa dados do Flashscore/RapidAPI em tempo real — backtest cronológico, filtro de mercados validados e otimização contínua de ROI (+1.7% na última correção). Pipeline automatizado com banco SQLite. |
-| **[Segundo Cérebro](https://github.com/h-vivian1/NotebookLM_Dio_Metodo_Karpathy)** | `PKM / IA` | Obsidian LLM Wiki baseado no **Método Karpathy + NotebookLM**. Conhecimento atômico com YAML frontmatter, links bidirecionais e MOCs. Ingestão automatizada via agentes de IA com pipeline raw → wiki → MOC. |
-| **Promptudo** 🔒 | `AI Automation` | Hub de automação orquestrado via **n8n**. Integra múltiplos modelos de IA para gerar, refinar e estruturar prompts complexos. |
-| **[PrintFullPages](https://github.com/h-vivian1/PrintFullPages)** | `Automation` | Engine de renderização que captura **prints completos de URLs** simultaneamente. Resolve Lazy Loading e carregamento dinâmico. |
+### 🔥 Em Destaque
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Projeto_Flashscore</h3>
+      <p align="center"><code>Python · LightGBM · SQLite</code></p>
+      <p align="center"><b>IA Preditiva para Apostas Esportivas</b></p>
+      <p align="center">
+        Motor preditivo com <b>Poisson Bivariado (Dixon-Coles)</b>, cache inteligente, RAG/KNN e backtest cronológico. Processa dados do Flashscore/RapidAPI em tempo real com otimização contínua de ROI.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/privado-1a1b27?style=flat-square&logo=lock" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Segundo Cérebro</h3>
+      <p align="center"><code>Obsidian · Python · Markdown</code></p>
+      <p align="center"><b>Base de Conhecimento Atômico</b></p>
+      <p align="center">
+        Obsidian LLM Wiki baseado no <b>Método Karpathy + NotebookLM</b>. Conhecimento atômico com YAML frontmatter, links bidirecionais e MOCs. Ingestão automatizada via agentes: <code>raw → wiki → MOC</code>.
+      </p>
+      <p align="center">
+        <a href="https://github.com/h-vivian1/NotebookLM_Dio_Metodo_Karpathy"><img src="https://img.shields.io/badge/repositório-8B5CF6?style=flat-square&logo=github" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">promptudo</h3>
+      <p align="center"><code>TypeScript · n8n · Docker</code></p>
+      <p align="center"><b>Hub de Automação com IA</b></p>
+      <p align="center">
+        Orquestração multi-modelo via <b>n8n</b>. Integra DeepSeek, Claude e outros LLMs para gerar, refinar e estruturar prompts complexos em fluxos automatizados.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/privado-1a1b27?style=flat-square&logo=lock" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 📦 Outros Projetos
+
+| Projeto | Stack | Descrição |
+|:--------|:------|:----------|
+| [PrintFullPages](https://github.com/h-vivian1/PrintFullPages) | `TypeScript` | Engine de renderização que captura prints completos de URLs |
+| [GenAI Triage Gateway](https://github.com/h-vivian1/GenAI_Triage_-_Action_Gateway) | `Python` | Gateway de triagem para ações baseadas em IA Generativa |
+| float_premiere | `Python` | Placar da Premiere em janela flutuante no Windows |
+| MegaFocus | `TypeScript` | App de foco e produtividade |
+| Organizei | `Python` | Automação de organização de arquivos |
+| Kelly Criterion Calculator | `HTML` | Calculadora de Kelly Criterion para apostas |
+
+<br/>
 
 ---
 
-### 📊 Estatísticas & Contribuições
+## 🛠️ Stack & Ferramentas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-vivian1&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,html,css,js,docker,git,github,vscode&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/LightGBM-3D7B3F?style=flat-square&logo=lightgbm&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/DeepSeek-4F46E5?style=flat-square&logo=deepseek&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-000?style=flat-square&logo=robot&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white&labelColor=1a1b27" />
+</p>
 
-<br>
+<p align="center">
+  <b>IA & ML:</b> LightGBM, Poisson Bivariado, RAG/KNN, Scikit-learn<br/>
+  <b>Automação:</b> Hermes Agent, n8n, GitHub Actions, Cron<br/>
+  <b>Linguagens:</b> Python, TypeScript, JavaScript, HTML, CSS<br/>
+  <b>Dados:</b> SQLite, Pandas, REST APIs (RapidAPI)<br/>
+  <b>Ferramentas:</b> Obsidian, Docker, Git, VS Code
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-vivian1&theme=tokyonight&hide_border=true&date_format=d%20M%20Y&background=0d1117" alt="GitHub Streak" />
-</div>
+<br/>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h-vivian1&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%" alt="activity graph" />
-</div>
+## 📊 Atividade
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h-vivian1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-vivian1&theme=tokyonight&hide_border=true&date_format=d%20M%20Y&background=0d1117" height="170" />
+</p>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/h-vivian1/h-vivian1/output/github-contribution-grid-snake-ocean.svg" alt="Snake Animation" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h-vivian1&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&radius=8" width="95%" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=h-vivian1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+<br/>
+
+---
+
+<p align="center">
+  <i>"Automatize o chato. Potencialize o importante."</i>
+</p>
