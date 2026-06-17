@@ -37,7 +37,7 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">Projeto_Flashscore</h3>
       <p align="center"><code>Python · LightGBM · SQLite</code></p>
       <p align="center"><b>IA Preditiva para Apostas Esportivas</b></p>
@@ -48,7 +48,7 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
         <img src="https://img.shields.io/badge/privado-1a1b27?style=flat-square&logo=lock" />
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">Segundo Cérebro</h3>
       <p align="center"><code>Obsidian · Python · Markdown</code></p>
       <p align="center"><b>Base de Conhecimento Atômico</b></p>
@@ -59,7 +59,7 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
         <a href="https://github.com/h-vivian1/NotebookLM_Dio_Metodo_Karpathy"><img src="https://img.shields.io/badge/repositório-8B5CF6?style=flat-square&logo=github" /></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">Calm Fintech</h3>
       <p align="center"><code>Next.js · TypeScript · SQLite</code></p>
       <p align="center"><b>Gestão Financeira com IA</b></p>
@@ -71,6 +71,17 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
         <img src="https://img.shields.io/badge/MIT-1a1b27?style=flat-square" />
       </p>
     </td>
+    <td width="25%" valign="top">
+      <h3 align="center">Copiloto de Vendas</h3>
+      <p align="center"><code>Python · Automação · IA</code></p>
+      <p align="center"><b>Automação Inteligente de Vendas</b></p>
+      <p align="center">
+        Pipeline inteligente que automatiza prospecção, qualificação e follow-up de leads com agentes de IA. Integração multi-canal e análise preditiva de conversão.
+      </p>
+      <p align="center">
+        <a href="https://github.com/h-vivian1/Copiloto-de-Vendas"><img src="https://img.shields.io/badge/repositório-8B5CF6?style=flat-square&logo=github" /></a>
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -78,12 +89,9 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
 
 | Projeto | Stack | Descrição |
 |:--------|:------|:----------|
-| [PrintFullPages](https://github.com/h-vivian1/PrintFullPages) | `TypeScript` | Engine de renderização que captura prints completos de URLs |
 | **promptudo** 🔒 | `TypeScript · n8n · Docker` | Hub de automação multi-modelo via n8n. Integra DeepSeek, Claude e outros LLMs |
 | float_premiere 🔒 | `Python` | Placar da Premiere em janela flutuante no Windows |
-| MegaFocus | `TypeScript` | App de foco e produtividade |
 | Organizei | `Python` | Automação de organização de arquivos |
-| Kelly Criterion Calculator | `HTML` | Calculadora de Kelly Criterion para apostas |
 
 <br/>
 
