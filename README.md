@@ -84,7 +84,7 @@ Construo <b>sistemas inteligentes</b> que transformam dados em decisões. Minha 
       <p align="center"><code>Python · LightGBM · SQLite</code></p>
       <p align="center"><b>IA Preditiva — Análise Esportiva</b></p>
       <p align="center">
-        Motor preditivo híbrido com <b>LightGBM + RAG/KNN</b>, Poisson Bivariado (Dixon-Coles), pipeline ETL automatizado e backtest cronológico walk-forward. 55.5% winrate, +13.2% ROI em 18.355 entradas validadas.
+        Motor preditivo híbrido com <b>LightGBM + RAG/KNN</b>, Poisson Bivariado (Dixon-Coles), pipeline ETL automatizado e backtest cronológico walk-forward. 55.5% de acertividade em 18.355 entradas validadas.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/privado-1a1b27?style=flat-square&logo=lock" />
