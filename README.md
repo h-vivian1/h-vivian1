@@ -40,9 +40,9 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
     <td width="25%" valign="top">
       <h3 align="center">Projeto_Flashscore</h3>
       <p align="center"><code>Python · LightGBM · SQLite</code></p>
-      <p align="center"><b>IA Preditiva para Apostas Esportivas</b></p>
+      <p align="center"><b>IA Preditiva para Análise Esportiva</b></p>
       <p align="center">
-        Motor preditivo com <b>Poisson Bivariado (Dixon-Coles)</b>, cache inteligente, RAG/KNN e backtest cronológico. Processa dados do Flashscore/RapidAPI em tempo real com otimização contínua de ROI.
+        Motor preditivo com <b>Poisson Bivariado (Dixon-Coles)</b>, cache inteligente, RAG/KNN e backtest cronológico. Processa dados esportivos em tempo real com otimização contínua de performance.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/privado-1a1b27?style=flat-square&logo=lock" />
@@ -73,10 +73,10 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
     </td>
     <td width="25%" valign="top">
       <h3 align="center">Copiloto de Vendas</h3>
-      <p align="center"><code>Python · Automação · IA</code></p>
+      <p align="center"><code>Python · Streamlit · IA</code></p>
       <p align="center"><b>Automação Inteligente de Vendas</b></p>
       <p align="center">
-        Pipeline inteligente que automatiza prospecção, qualificação e follow-up de leads com agentes de IA. Integração multi-canal e análise preditiva de conversão.
+        Copiloto de vendas com IA — painel de priorização de leads, chat contextual com RAG, gerenciador de objeções e simulador de atendimento. Arquitetura modular com fallback inteligente.
       </p>
       <p align="center">
         <a href="https://github.com/h-vivian1/Copiloto-de-Vendas"><img src="https://img.shields.io/badge/repositório-8B5CF6?style=flat-square&logo=github" /></a>
@@ -90,7 +90,7 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
 | Projeto | Stack | Descrição |
 |:--------|:------|:----------|
 | **promptudo** 🔒 | `TypeScript · n8n · Docker` | Hub de automação multi-modelo via n8n. Integra DeepSeek, Claude e outros LLMs |
-| float_premiere 🔒 | `Python` | Placar da Premiere em janela flutuante no Windows |
+| **GenAI Triage** ✅ | `FastAPI · Python · Docker` | Gateway inteligente de triagem de tickets de suporte com IA (LLM + Pydantic + Streamlit) |
 | Organizei | `Python` | Automação de organização de arquivos |
 
 <br/>
@@ -104,7 +104,8 @@ Crio **sistemas inteligentes** que transformam dados em decisões. Minha atuaç�
   <img src="https://img.shields.io/badge/LightGBM-3D7B3F?style=flat-square&logo=lightgbm&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/DeepSeek-4F46E5?style=flat-square&logo=deepseek&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Hermes_Agent-000?style=flat-square&logo=robot&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white&labelColor=1a1b27" />
 </p>
