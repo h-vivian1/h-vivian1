@@ -145,7 +145,6 @@ Construo <b>sistemas inteligentes</b> que transformam dados em decisões. Minha 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-vivian1&theme=dracula&hide_border=true&date_format=d%20M%20Y&background=0d1117" height="170" />
 </p>
 
 <p align="center">
