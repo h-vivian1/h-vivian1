@@ -8,7 +8,8 @@
 <p align="center">
   <a href="mailto:hasvdev@gmail.com"><img src="https://img.shields.io/badge/Contato-hasvdev%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
   <a href="https://linkedin.com/in/henrique-vivian-analista-ti"><img src="https://img.shields.io/badge/LinkedIn-henrique--vivian-8B5CF6?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
-  <img src="https://komarev.com/ghpvc/?username=h-vivian1&color=8B5CF6&style=flat-square&label=visualizações&labelColor=1a1b27" />
+  <a href="https://welfarewell.shop"><img src="https://img.shields.io/badge/Portf%C3%B3lio-8B5CF6?style=flat-square&logo=portfolio&logoColor=white&labelColor=1a1b27" /></a>
+  <img src="https://komarev.com/ghpvc/?username=h-vivian1&color=8B5CF6&style=flat-square&label=visualiza%C3%A7%C3%B5es&labelColor=1a1b27" />
 </p>
 
 <br/>
@@ -128,7 +129,7 @@ Construo <b>sistemas inteligentes</b> que transformam dados em decisões. Minha 
   <b>IA & ML:</b> LightGBM, Scikit-learn, Groq API, RAG/KNN, Prompt Engineering<br/>
   <b>Automação:</b> Hermes Agent, n8n, GitHub Actions, Cron Jobs<br/>
   <b>Infra & DevOps:</b> Docker, Docker Compose, Git, SQLite<br/>
-  <b>Ferramentas:</b> Obsidian, VS Code, Streamlit, Postman
+  <b>Portfólio:</b> <a href="https://welfarewell.shop">welfarewell.shop</a>
 </p>
 
 <br/>
